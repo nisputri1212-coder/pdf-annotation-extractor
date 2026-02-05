@@ -13,7 +13,7 @@ I'm a PhD student working with 600+ papers for my dissertation. I wanted:
 - Complete ownership of my data
 - A tool that researchers anywhere in the world could use
 
-[Read the full story on my Substack →](your-substack-link-here)
+[Read the full story on my Substack →](https://open.substack.com/pub/nikenputri/p/every-phd-students-are-building-their?r=55lnb1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 ## What It Does
 
