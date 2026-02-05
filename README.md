@@ -86,7 +86,7 @@ MIT License - use it, modify it, share it.
 
 ## Questions?
 
-Open an issue or leave a comment on [my Substack post](your-link).
+Open an issue or leave a comment on [https://open.substack.com/pub/nikenputri/p/every-phd-students-are-building-their?r=55lnb1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true].
 
 ## Support This Project
 
@@ -104,4 +104,4 @@ Built with ❤️ by a PhD student who just wanted a simpler way to build a seco
 
 Your repository URL will be something like:
 ```
-https://github.com/yourusername/pdf-annotation-extractor
+https://github.com/nisputri1212_coder/pdf-annotation-extractor
