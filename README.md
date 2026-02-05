@@ -1,5 +1,5 @@
 # pdf-annotation-extractor
-Extract PDF highlights and comments into CSV just for reading pdf not really a serious qualitative research - a free alternative to NVivo/ATLAS.ti
+Extract PDF highlights and comments into CSV, just for reading pdf, annotating it and simple categorization, not really for serious qualitative research - a free alternative to NVivo/ATLAS.ti
 # PDF Annotation Extractor for Research
 
 A simple Python tool to extract highlights and comments from annotated PDFs and organize them into CSV files for qualitative analysis. Think of it as a free, lightweight alternative to NVivo that you actually own and control.
