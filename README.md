@@ -74,7 +74,7 @@ See [INSTRUCTIONS.md](link-to-full-instructions) for step-by-step setup guide.
 - Anyone tired of expensive qualitative analysis software
 - Researchers who want to own their data and workflow
 - People in regions where software costs are prohibitive
-- Anyone who wants a simple, transparent coding system
+- Anyone who wants a simple coding text in pdf with just several subnodes
 
 ## Cost
 
