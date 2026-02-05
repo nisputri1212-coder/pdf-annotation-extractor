@@ -60,8 +60,8 @@ I'm a PhD student working with 600+ papers for my dissertation. I wanted:
 
 ## Files Included
 
-- `extract_annotations.py` - Main extraction script
-- `find_my_colors.py` - Diagnostic tool to find your PDF reader's color codes
+- `pdf-annotation-exrtactor.ipynb` - Main extraction script
+- `find_my_colors.ipynb` - Diagnostic tool to find your PDF reader's color codes
 - `README.md` - This file with complete instructions
 
 ## Detailed Instructions
