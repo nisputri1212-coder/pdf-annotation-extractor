@@ -104,4 +104,4 @@ Built with ❤️ by a PhD student who just wanted a simpler way to build a seco
 
 Your repository URL will be something like:
 ```
-https://github.com/nisputri1212_coder/pdf-annotation-extractor
+https://github.com/nisputri1212-coder/pdf-annotation-extractor
